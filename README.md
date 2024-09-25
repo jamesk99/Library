@@ -14,4 +14,6 @@ Library Contents:
 6. The Intelligent Investor (Benjamin Graham).
 7. Introduction to Probability
 8. Self-Reliance (Ralph Waldo Emmerson).
-9. 
+9. Data Structures & Algorithms With Python
+10. Brownian Motion, Martingales, and Stochastic Calculus
+11. 
