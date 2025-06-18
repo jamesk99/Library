@@ -17,10 +17,10 @@ Library Contents:
 8. Self-Reliance (Ralph Waldo Emmerson).
 9. Data Structures & Algorithms With Python
 10. Brownian Motion, Martingales, and Stochastic Calculus
-11. TBD
-12. TBD
-13. Programming in C (Brian Kernighan, Dennis Ritchie).
-14. Deep Learning (Ian Goodfellow, Yoshua Bengio, Aaron Courville).
+11. Economic Calculation in the Socialist Commonwealth (Ludwig von Mises).
+12. Deep Learning Textbook (Ian Goodfellow, Yoshua Bengio, Aaron Courville).
+13. The C Programming Language (Brian Kernighan, Dennis Ritchie).
+14. The Beginner's C++ Handbook (Greg Perry, Dean Miller).
 15. The Theory of Money and Credit (Ludwig von Mises).
 16. AI Research Papers
     a. Attention is All You Need (Vaswani et al.)
