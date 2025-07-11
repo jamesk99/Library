@@ -23,6 +23,7 @@ Library Contents:
 14. The Beginner's C++ Handbook (Greg Perry, Dean Miller).
 15. The Theory of Money and Credit (Ludwig von Mises).
 16. AI Research Papers
+    
     a. Attention is All You Need (Vaswani et al.)
     b. Deep Learning (LeCun, Hinton)
     c. Deep Residual Learning for Image Recognition (He et al.)
@@ -31,5 +32,5 @@ Library Contents:
     f. Handwritten Digit Recognition with a Back-Propagation Network (LeCun et al.)
     g. DrBioRight 2.0 an LLM powered bioinformatics chatbot for large scale cancer functional proteomics analysis (Liu et al.)
 
-17. Math for Money (Jim Simons)
-18. TBD
+18. Math for Money (Jim Simons)
+19. TBD
