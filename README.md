@@ -25,11 +25,17 @@ Library Contents:
 16. AI Research Papers
     
     a. Attention is All You Need (Vaswani et al.)
+    
     b. Deep Learning (LeCun, Hinton)
+    
     c. Deep Residual Learning for Image Recognition (He et al.)
+    
     d. Generative Adversarial Networks An Overview (Goodfellow et al.)
+    
     e. ImageNet Classification with Deep Convolutional Neural Networks (Krizhevsky et al.)
+    
     f. Handwritten Digit Recognition with a Back-Propagation Network (LeCun et al.)
+    
     g. DrBioRight 2.0 an LLM powered bioinformatics chatbot for large scale cancer functional proteomics analysis (Liu et al.)
 
 18. Math for Money (Jim Simons)
